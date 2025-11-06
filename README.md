@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Daniel
 
-### 💻 Desarrollador de Software | 📊 Analista de Sistemas
+### Desarrollador de Software | Analista de Sistemas
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel69962@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnie12/)
@@ -55,7 +55,7 @@ Soy un desarrollador de software y analista apasionado por crear soluciones inno
 ### **Frameworks & Librerías**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,dotnet,vue,react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,vue,react,dotnet" />
   </a>
 </p>
 
