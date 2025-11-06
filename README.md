@@ -48,14 +48,14 @@ Soy un desarrollador de software y analista apasionado por crear soluciones inno
 ### **Lenguajes de Programación**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,r,php,js,ts,r" />
+    <img src="https://skillicons.dev/icons?i=python,java,r,php,js,ts,r,cs" />
   </a>
 </p>
 
 ### **Frameworks & Librerías**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,dotnet,vue,react" />
+    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,dotnet,vue,react,dotnet" />
   </a>
 </p>
 
