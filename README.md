@@ -55,7 +55,10 @@ Soy un desarrollador de software y analista apasionado por crear soluciones inno
 ### **Frameworks & Librerías**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,vue,react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flask,vue,react,dotnet,redis" />
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/valkey.svg" alt="Jira" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
+  </span>    
   </a>
 </p>
 
@@ -72,7 +75,7 @@ Soy un desarrollador de software y analista apasionado por crear soluciones inno
     <img src="https://skillicons.dev/icons?i=postman,figma" />
   </a>
   <span>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Jira" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
   </span>
 </p>
 
