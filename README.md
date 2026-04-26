@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Daniel
+# ¡Hola! Soy Daniel
 
 ### Desarrollador de Software | Analista de Sistemas
 
@@ -13,37 +13,37 @@
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Soy un desarrollador de software y analista apasionado por crear soluciones innovadoras y eficientes. Con experiencia en el desarrollo de aplicaciones web, análisis de datos y arquitectura de sistemas. Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.
 
 ---
-## 💼 Habilidades Principales
+## Habilidades Principales
 
-### 🔧 **Desarrollo Backend**
+### **Desarrollo Backend**
 - **Arquitecturas**: Microservicios, Monolíticas, Serverless
 - **APIs**: REST
 - **Patrones**: MVC, Singleton, Decorator, Strategy
 - **Optimización**: Caching, Load Balancing, Query Optimization
 
-### 🎯 **Análisis de Sistemas**
+### **Análisis de Sistemas**
 - **Metodologías**: Agile, Scrum
 - **Documentación**: UML, Diagramas de flujo, Especificaciones técnicas
 - **Análisis**: Requerimientos, Procesos de negocio, Casos de uso
 - **Quality Assurance**: Testing strategies, Code reviews
 
-### 🗄️ **Bases de Datos**
+### **Bases de Datos**
 - **SQL**: Diseño de esquemas, Optimización de queries, Transacciones
 - **NoSQL**: Modelado de datos, Escalabilidad horizontal
 - **Data Warehousing**: ETL processes, Data modeling
 
-### ☁️ **DevOps & Infraestructura**
+### **DevOps & Infraestructura**
 - **Contenedores**: Docker, Docker Compose, Orquestación
 - **CI/CD**: Pipelines automatizados, Testing continuo
 - **Cloud**: Arquitecturas cloud-native
 - **Monitorización**: Logs, Métricas
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### **Lenguajes de Programación**
 <p align="center">
@@ -96,9 +96,3 @@ Soy un desarrollador de software y analista apasionado por crear soluciones inno
 </div>
 
 ---
-
-<div align="center">
-
-### ⭐
-
-</div>
