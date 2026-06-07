@@ -1,8 +1,7 @@
 <div align="center">
 
-# ¡Hola! Soy Daniel
-
-### Desarrollador de Software | Analista de Sistemas
+# Hi! I'm Daniel
+### Software Developer | Systems Analyst | Backend & Infrastructure
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel69962@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnie12/)
@@ -13,78 +12,102 @@
 
 ---
 
-## Sobre Mí
+## About Me
 
-Soy un desarrollador de software y analista apasionado por crear soluciones innovadoras y eficientes. Con experiencia en el desarrollo de aplicaciones web, análisis de datos y arquitectura de sistemas. Me encanta aprender nuevas tecnologías y enfrentar desafíos complejos.
+Software developer with 2+ years of production experience building secure backend systems, critical DNS infrastructure, and data-driven solutions. I've reduced deployment cycles by 40%, cut manual processes by 98%, and maintained national-level infrastructure. I enjoy solving complex problems, automating workflows, and delivering measurable results.
 
 ---
-## Habilidades Principales
 
-### **Desarrollo Backend**
-- **Arquitecturas**: Microservicios, Monolíticas, Serverless
-- **APIs**: REST
-- **Patrones**: MVC, Singleton, Decorator, Strategy
-- **Optimización**: Caching, Load Balancing, Query Optimization
+## Core Skills
 
-### **Análisis de Sistemas**
-- **Metodologías**: Agile, Scrum
-- **Documentación**: UML, Diagramas de flujo, Especificaciones técnicas
-- **Análisis**: Requerimientos, Procesos de negocio, Casos de uso
-- **Quality Assurance**: Testing strategies, Code reviews
+### **Backend Development**
+- **Architectures**: Microservices, Monolithic, Serverless
+- **APIs**: REST, WebSockets, Swagger/OpenAPI
+- **Patterns**: MVC, Singleton, Decorator, Strategy
+- **Optimization**: Caching, Load Balancing, Query Optimization
+- **Automation**: Cronjobs, scheduled workflows, multi-unit email distribution
 
-### **Bases de Datos**
-- **SQL**: Diseño de esquemas, Optimización de queries, Transacciones
-- **NoSQL**: Modelado de datos, Escalabilidad horizontal
-- **Data Warehousing**: ETL processes, Data modeling
+### **Security & DNS Infrastructure**
+- **DNS & Cryptography**: DNSSEC, KSK/ZSK key lifecycle, EPP, HSM integration, RRSIG monitoring, ZSK rollover automation, trust-chain validation
+- **Application Security**: JWT authentication, TLS/SSL enforcement, input validation, OWASP ZAP, Snyk, SonarQube
+- **Certificates**: SSL/TLS lifecycle management (issuance, renewal, rotation) with zero downtime
 
-### **DevOps & Infraestructura**
-- **Contenedores**: Docker, Docker Compose, Orquestación
-- **CI/CD**: Pipelines automatizados, Testing continuo
-- **Cloud**: Arquitecturas cloud-native
-- **Monitorización**: Logs, Métricas
+### **Financial Systems**
+- Full-cycle fund management (income, expenses, frozen funds)
+- Transaction workflow modification at code level
+- Balance reconciliation and discrepancy resolution
+- Data cleaning and structured Excel reporting
 
-## Stack Tecnológico
+### **Systems Analysis**
+- **Methodologies**: Agile, Scrum
+- **Documentation**: UML, Flowcharts, Technical Specifications, Swagger/OpenAPI
+- **Analysis**: Requirements, Business Processes, Use Cases
+- **Quality Assurance**: Unit testing, Code reviews, automated CI/CD pipelines
 
-### **Lenguajes de Programación**
+### **Databases**
+- **SQL**: Schema design, normalization, query optimization, transactions
+- **NoSQL**: Data modeling, horizontal scalability
+- **Data Warehousing**: ETL processes, data modeling, data cleaning
+
+### **DevOps & Infrastructure**
+- **Containers**: Docker, Docker Compose
+- **CI/CD**: Jenkins, automated pipelines, continuous testing
+- **Monitoring**: Logs, metrics, RRSIG monitoring
+- **Systems**: Linux, Bash scripting, server administration
+
+### **Data & Reporting**
+- Dashboard creation with Power BI
+- Advanced Excel reporting and data exports
+- Statistical analysis with R and Python (pandas)
+- Financial and operational data reporting for stakeholders
+
+---
+
+## Tech Stack
+
+### **Programming Languages**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,r,php,js,ts,cs" />
   </a>
 </p>
 
-### **Frameworks & Librerías**
+### **Frameworks & Libraries**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,vue,react,dotnet,redis" />
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/valkey.svg" alt="Jira" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
-  </span>    
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/valkey.svg" alt="Valkey" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
+  </span>
   </a>
 </p>
 
-### **Bases de Datos & DevOps**
+### **Databases & DevOps**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,aws,git,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,jenkins,git,linux,bash" />
   </a>
 </p>
 
-### **Herramientas & Otros**
+### **Tools & Others**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,figma" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,jira" />
   </a>
   <span>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Power BI" style="background: #22223b; border-radius: 12px; padding: 8px; display: inline-flex; align-items: center; justify-content: center; height: 40px; width: 40px; margin-left:4px;" />
   </span>
 </p>
 
-## Idiomas
+---
 
-- **Español:** Nativo  
-- **Inglés:** Avanzado  
+## Languages
+- **Spanish:** Native
+- **English:** Professional working proficiency (C1)
 
-## Contacto
+---
+
+## Contact
 
 <div align="center">
 
