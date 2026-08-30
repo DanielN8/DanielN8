@@ -14,7 +14,7 @@
 
 ## About Me
 
-Software developer with production experience building secure backend systems, critical DNS infrastructure, and data-driven solutions. I've reduced deployment cycles by 40%, cut manual processes by 98%, and maintained national-level infrastructure. I enjoy solving complex problems, automating workflows, and delivering measurable results.
+Software developer with production experience building E2E systems.
 
 ---
 
