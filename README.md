@@ -21,11 +21,29 @@ DevOps and Full Stack developer. I work in production on the .pa ccTLD domain an
 
 ## Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,py,nestjs,vue,nuxtjs,flask,postgres,prisma,redis" />
-<br />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,debian,nginx,prometheus,grafana,azure,terraform,git,gitlab" />
-</p>
+**Languages and frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,nestjs,vue,nuxtjs,flask" />
+
+**Databases**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mysql,oracle,redis,prisma" />
+
+**Containers and CI/CD**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,gitlab" />
+
+**Systems**
+
+<img src="https://skillicons.dev/icons?i=linux,debian,nginx,bash" />
+
+**Observability**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+**Cloud and IaC (hackathons)**
+
+<img src="https://skillicons.dev/icons?i=azure,terraform" />
 
 ## Languages
 
