@@ -41,9 +41,9 @@ DevOps and Full Stack developer. I work in production on the .pa ccTLD domain an
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
-**Cloud and IaC (hackathons)**
+**Cloud and IaC**
 
-<img src="https://skillicons.dev/icons?i=azure,terraform" />
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform" />
 
 ## Languages
 
