@@ -1,8 +1,9 @@
 <div align="center">
 
 # Hi, I'm Daniel Nie
-### Full Stack Developer | DevSecOps
+### DevOps | Full Stack
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danielnie.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnie12/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel69962@gmail.com)
 
@@ -10,21 +11,20 @@
 
 ## About Me
 
-I build web projects end to end, from development to production and monitoring. I currently work at the Technological University of Panama (UTP), including the .pa ccTLD registry platform (NIC Panamá). I focus on secure CI/CD, containerized deployments and observability.
+DevOps and Full Stack developer. I work in production on the .pa ccTLD domain and DNS platform (NIC Panama) at the Technological University of Panama (UTP).
 
-- Full stack: TypeScript, NestJS, Vue/Nuxt, React, PostgreSQL
-- DevSecOps: CI/CD pipelines with code and security scanning, Docker, Kubernetes
-- Operations: Linux servers in production, monitoring with Prometheus, Loki and Grafana
-- 3rd place, ICCA Hackathon 2024; Copa Airlines Hackathon 2026 (DevOps, API and Observability)
+- CI/CD: Jenkins pipelines with a SonarQube quality gate and security scans, and automated production deployments with backup and automatic rollback
+- Operations: on-premise Linux (Debian) servers on VMware with Docker, Kubernetes and Nginx, monitored with Prometheus, Loki and Grafana
+- Performance: load testing with Grafana k6; the slowest endpoint went from 6 s to 20 ms or less
+- Full stack: TypeScript (NestJS, Vue/Nuxt), Python (Flask), PostgreSQL, Redis
+- Hackathons: Copa Airlines Hackathon 2026 (DevOps, API and Observability) with Azure, Terraform and Dynatrace; 3rd place, ICCA Hackathon 2024
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,nestjs,vue,nuxtjs,react,vite,flask" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,docker,kubernetes,jenkins,linux,nginx" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,azure,aws,terraform,git,gitlab,postman,selenium" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,nestjs,vue,nuxtjs,flask,postgres,prisma,redis" />
+<br />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,debian,nginx,prometheus,grafana,azure,terraform,git,gitlab" />
 </p>
 
 ## Languages
